@@ -1,0 +1,15 @@
+/home/pc/Документы/Examples/Example004_div/bin/Debug/net6.0/Example004_div
+/home/pc/Документы/Examples/Example004_div/bin/Debug/net6.0/Example004_div.deps.json
+/home/pc/Документы/Examples/Example004_div/bin/Debug/net6.0/Example004_div.runtimeconfig.json
+/home/pc/Документы/Examples/Example004_div/bin/Debug/net6.0/Example004_div.dll
+/home/pc/Документы/Examples/Example004_div/bin/Debug/net6.0/Example004_div.pdb
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.csproj.AssemblyReference.cache
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.AssemblyInfoInputs.cache
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.AssemblyInfo.cs
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.csproj.CoreCompileInputs.cache
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.dll
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/refint/Example004_div.dll
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.pdb
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/Example004_div.genruntimeconfig.cache
+/home/pc/Документы/Examples/Example004_div/obj/Debug/net6.0/ref/Example004_div.dll
